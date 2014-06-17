@@ -1,0 +1,4 @@
+Espada larga +2 da imortalidade divina
+	
+Toda vez que ela causa dano a um ser de tendencia maligna, você cura os seus Pvs com o mesmo dano causado.
+dano 2d6

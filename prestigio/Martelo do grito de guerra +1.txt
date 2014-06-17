@@ -1,0 +1,6 @@
+Martelo do grito de guerra +1
+
+Quando empunhado por uma anão, até três vezes ao dia você pode berrar uma das frases descrita no cabo do martelo e ganhar o 	seguinte benefício durante o combate. 
++4 no bônus de ataque.
++2 no dano com a martelo
+dano 1d10

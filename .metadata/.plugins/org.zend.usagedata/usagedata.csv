@@ -1,0 +1,9 @@
+monitorId,attribute1,attribute2,attribute3,attribute4,time
+org.zend.viewsUsageMonitor,activated,org.eclipse.ui.views.ContentOutline,org.eclipse.php.perspective,"view",1382667440776
+org.zend.wizardUsageMonitor,16,New PHP Project,,"ce=true;ct=__invalid__;tc=true;te=true;tl=Location:;tt=NOT_EMPTY;we=16;ws=33572868;wst=New PHP Project;wt=text;",1382667544076
+org.zend.wizardUsageMonitor,16,New PHP Project,,"ce=true;ct=__invalid__;tc=true;te=true;tl=Project Name:;tt=NOT_EMPTY;we=16;ws=33572868;wst=New PHP Project;wt=text;",1382667546349
+org.zend.wizardUsageMonitor,13,New PHP Project,,"bs=false;bt=&Finish;bt1=8;ce=true;ct=__invalid__;we=13;ws=50331656;wst=New PHP Project;wt=button;",1382667546548
+org.zend.wizardUsageMonitor,13,New PHP Project,,"it=PHP Project from Existing Directory;ma=__invalid__;me=true;mp=&File||&New||PHP Project from Existing Directory;ms=false;we=13;ws=8;wst=New PHP Project;wt=menuItem;",1382667571254
+org.zend.wizardUsageMonitor,16,New PHP Project,,"ce=true;ct=__invalid__;tc=true;te=true;tl=Project Name:;tt=NOT_EMPTY;we=16;ws=33572868;wst=New PHP Project;wt=text;",1382667582396
+org.zend.wizardUsageMonitor,13,New PHP Project,,"bs=false;bt=&Finish;bt1=8;ce=true;ct=__invalid__;we=13;ws=50331656;wst=New PHP Project;wt=button;",1382667582404
+org.zend.wizardUsageMonitor,13,New PHP Project,,"bs=false;bt=Cancel;bt1=8;ce=true;ct=__invalid__;we=13;ws=50331656;wst=New PHP Project;wt=button;",1382667587994

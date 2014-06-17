@@ -1,0 +1,4 @@
+Profana discórdia +4
+
+Forjada no limbo pelo feiticeiro maligno Belbazar, esta arma consome a essência de que a carrega consigo, sua tendencia se torna maligna com alinhamento leal. As pessoas ao seu redor (raio 9m) devem obter sucesso num teste de vont CD 20 ou serão consumidos em discódia acabando se desentendendo fácilmente com qualquer outra pessoa e gerando confusões de briga até a morte.
+As plantas que estão num raio de até 3m do portador da espada morram com sua presença, criaturas comuns com até 4dv precisam fazer um teste de fort CD 14 para não morrerem.

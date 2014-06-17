@@ -1,0 +1,41 @@
+O monge espiritual
+
+Este monge tem todo o seu tempo dedicado ao objetivo de aprimorar seu corpo, sua mente a alma ao potencial máximo.
+Treinado em monastários perdidos, este monge busca no inicio de sua carreira a paz interior para limpar a sua alma
+das limitações mentais. Depois disso começa o seu treinamento físico que aprimora o seu corpo ao máximo.
+
+
+Nivel    BBA    Fort    Vont    Ref    Especial        
+1            1          2         2        2    Mente tranquila        
+2            2          3         3        3    -            
+3            3          3         3        3    Mente solta        
+4            4          4         4        4    -            
+5            5          4         4        4    Corpo e mente        
+6            6          5         5        5    Sabedoria espiritual    
+7            7          5         5        5    -            
+8            8          6         6        6    Autocontrole        
+9            9          6         6        6    -           
+10         10          7         7        7    Nirvana            
+
+
+Descrição das habilidades
+
+Mente tranquila: O monge não sofre mais penalidades em seus testes de pericia.
+
+Mente solta: Você consegue prevê os movimentos alheios, +1 na CA de intuição.
+
+Corpo e mente: Seu corpo e sua mente estão começando a se unir. Gastando uma rodada completa de concentração, você consegue aumentar
++1 no bônus de ataque por 1m.
+
+Sabedoria espiritual: Seu caminho sábio está no ápice da estabilidade. Com uma rodada completa se concentrando, você consegue aumentar 
+a sua sabedoria em +4 durante o dia inteiro.
+
+Autocontrole: Seu corpo em comunão com sua mente lhe permite o domínio do autocontrole. Você recebe mais 1 de moral no bônus de ataque, pericias e sua rajada de golpes não lhe impõe penalidades quando utilizada.
+
+Nirvana: Corpo e mente unidos ao máximo como um único instrumento só. Neste estágio o monge espiritual deixa de ser uma criatura normal e passa a ser uma criatura mágica extraplanar. Ele recebe um bônus de melhoria nas seguintes habilidades.
+
+Força +2       
+Destreza +3        
+Constituição +2        
+Sabedoria +6       
+Carisma +2         

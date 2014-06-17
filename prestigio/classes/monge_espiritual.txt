@@ -1,0 +1,41 @@
+<p><strong>O monge espiritual</strong><br />
+<br />
+Este monge tem todo o seu tempo dedicado ao objetivo de aprimorar seu corpo, sua mente a alma ao potencial m&aacute;ximo.<br />
+Treinado em monast&aacute;rios perdidos, este monge busca no inicio de sua carreira a paz interior para limpar a sua alma<br />
+das limita&ccedil;&otilde;es mentais. Depois disso come&ccedil;a o seu treinamento f&iacute;sico que aprimora o seu corpo ao m&aacute;ximo.<br />
+&nbsp;</p>
+
+<p><strong>Nivel&nbsp;&nbsp; &nbsp;BBA&nbsp;&nbsp; &nbsp;Fort&nbsp;&nbsp; &nbsp;Vont&nbsp;&nbsp; &nbsp;Ref&nbsp;&nbsp; &nbsp;Especial</strong>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2 &nbsp; &nbsp; &nbsp; &nbsp; 2 &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;2&nbsp;&nbsp; &nbsp;Mente tranquila &nbsp; &nbsp; &nbsp; &nbsp;<br />
+2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;3 &nbsp; &nbsp; &nbsp; &nbsp; 3 &nbsp; &nbsp; &nbsp; &nbsp;3&nbsp;&nbsp; &nbsp;- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;3 &nbsp; &nbsp; &nbsp; &nbsp; 3 &nbsp; &nbsp; &nbsp; &nbsp;3&nbsp;&nbsp; &nbsp;Mente solta &nbsp; &nbsp; &nbsp; &nbsp;<br />
+4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;4 &nbsp; &nbsp; &nbsp; &nbsp; 4 &nbsp; &nbsp; &nbsp; &nbsp;4&nbsp;&nbsp; &nbsp;- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;4 &nbsp; &nbsp; &nbsp; &nbsp; 4 &nbsp; &nbsp; &nbsp; &nbsp;4&nbsp;&nbsp; &nbsp;Corpo e mente &nbsp; &nbsp; &nbsp; &nbsp;<br />
+6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;5 &nbsp; &nbsp; &nbsp; &nbsp; 5 &nbsp; &nbsp; &nbsp; &nbsp;5&nbsp;&nbsp; &nbsp;Sabedoria espiritual &nbsp; &nbsp;<br />
+7 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;7 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;5 &nbsp; &nbsp; &nbsp; &nbsp; 5 &nbsp; &nbsp; &nbsp; &nbsp;5&nbsp;&nbsp; &nbsp;- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+8 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;8 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;6 &nbsp; &nbsp; &nbsp; &nbsp; 6 &nbsp; &nbsp; &nbsp; &nbsp;6&nbsp;&nbsp; &nbsp;Autocontrole &nbsp; &nbsp; &nbsp; &nbsp;<br />
+9 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;9 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;6 &nbsp; &nbsp; &nbsp; &nbsp; 6 &nbsp; &nbsp; &nbsp; &nbsp;6&nbsp;&nbsp; &nbsp;- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />
+10 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;10 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;7 &nbsp; &nbsp; &nbsp; &nbsp; 7 &nbsp; &nbsp; &nbsp; &nbsp;7&nbsp;&nbsp; &nbsp;Nirvana &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+<p><br />
+<strong>Descri&ccedil;&atilde;o das habilidades</strong></p>
+
+<p><strong>Mente tranquila:</strong>&nbsp;O monge n&atilde;o sofre mais penalidades em seus testes de pericia.</p>
+
+<p><strong>Mente solta:</strong>&nbsp;Voc&ecirc; consegue prev&ecirc; os movimentos alheios, +1 na CA de intui&ccedil;&atilde;o.</p>
+
+<p><strong>Corpo e mente:</strong>&nbsp;Seu corpo e sua mente est&atilde;o come&ccedil;ando a se unir. Gastando uma rodada completa de concentra&ccedil;&atilde;o, voc&ecirc; consegue aumentar<br />
++1 no b&ocirc;nus de ataque por 1m.</p>
+
+<p><strong>Sabedoria espiritual:&nbsp;</strong>Seu caminho s&aacute;bio est&aacute; no &aacute;pice da estabilidade. Com uma rodada completa se concentrando, voc&ecirc; consegue aumentar&nbsp;<br />
+a sua sabedoria em +4 durante o dia inteiro.</p>
+
+<p><strong>Autocontrole</strong>: Seu corpo em comun&atilde;o com sua mente lhe permite o dom&iacute;nio do autocontrole. Voc&ecirc; recebe mais 1 de moral no b&ocirc;nus de ataque, pericias e sua rajada de golpes n&atilde;o lhe imp&otilde;e penalidades quando utilizada.</p>
+
+<p><strong>Nirvana:&nbsp;</strong>Corpo e mente unidos ao m&aacute;ximo como um &uacute;nico instrumento s&oacute;. Neste est&aacute;gio o monge espiritual deixa de ser uma criatura normal e passa a ser uma criatura m&aacute;gica extraplanar. Ele recebe um b&ocirc;nus de melhoria nas seguintes habilidades.<br />
+<br />
+<strong>For&ccedil;a +2 &nbsp; &nbsp; &nbsp;&nbsp;<br />
+Destreza +3 &nbsp; &nbsp; &nbsp; &nbsp;<br />
+Constitui&ccedil;&atilde;o +2 &nbsp; &nbsp; &nbsp; &nbsp;<br />
+Sabedoria +6 &nbsp; &nbsp; &nbsp;&nbsp;<br />
+Carisma +2 &nbsp; &nbsp; &nbsp; &nbsp;</strong>&nbsp;</p>

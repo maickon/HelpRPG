@@ -1,0 +1,8 @@
+Espada Semehada
+
+Esta espada foi criada a partir da fundição de diversos outros cacos de espadas quebradas em batalha. Diziam que 
+quando fosse empunhada, sua lâmina representaria todas as armas destroidas em combate. Seu primeiro dono foi Solivan,
+um nobre guerreiro que foi lider na gurras das berbateiras.
+Em termos de regra ela é uma espada +2 toque da ruína.
+Habilidade:[toque da ruína] Três vezes ao dia esta espada causa um dano adicional de +10d6, caso reduza os pntos de vida do alvo a 0,
+o alvo é desintegrado.

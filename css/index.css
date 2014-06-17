@@ -1,0 +1,252 @@
+.text-area{
+	height:150px;
+}
+.text-area-prestigio{
+	height:1200px;
+}
+.link_menu_bar{
+	float:right;
+	font-size:24px;
+}
+.link:hover{color:#000;}
+.img_tm{
+	width:150px;
+	height:150px;
+}
+.img_slide{
+	width:100px;
+	height:100px;
+}
+.scroll{
+	overflow:auto;
+	background-color:#FCF;
+}
+.img_ct{
+	width:120px;
+	height:120px;
+}
+.green{
+	background-color:#000;
+	height:200px;
+}
+.v{
+	background-color:#F6F6F6;
+}
+.black{
+	background-color:#000;
+	height:auto;
+	color:#CCC;
+}
+.help_rpg{
+	width:150px;
+	height:100px;
+	text-align:center
+}
+.logo1{
+	background-image:url(../img/pic1.jpg);
+	height:250px;
+	width:100%;
+}
+.logo2{
+	background-image:url(../img/pic2.jpg);
+	height:250px;
+}
+.logo3{
+	background-image:url(../img/pic3.jpg);
+	height:250px;
+}
+.logo4{
+	background-image:url(../img/pic4.jpg);
+	height:250px;
+}
+.logo5{
+	background-image:url(../img/pic5.jpg);
+	height:250px;
+}
+.logo6{
+	background-image:url(../img/pic6.jpg);
+	height:250px;
+}
+.logo7{
+	background-image:url(../img/pic7.jpg);
+	height:250px;
+}
+.logo8{
+	background-image:url(../img/pic8.jpg);
+	height:250px;
+}
+.logo9{
+	background-image:url(../img/pic9.jpg);
+	height:250px;
+}
+.logo10{
+	background-image:url(../img/pic10.jpg);
+	height:250px;
+}
+.logo11{
+	background-image:url(../img/pic11.jpg);
+	height:250px;
+}
+.logo12{
+	background-image:url(../img/pic12.jpg);
+	height:250px;
+}
+.logo13{
+	background-image:url(../img/pic13.jpg);
+	height:250px;
+}
+.logo14{
+	background-image:url(../img/pic14.jpg);
+	height:250px;
+}
+.logo15{
+	background-image:url(../img/pic15.jpg);
+	height:250px;
+}
+.logo16{
+	background-image:url(../img/pic16.jpg);
+	height:250px;
+}
+.logo17{
+	background-image:url(../img/pic17.jpg);
+	height:250px;
+}
+.logo18{
+	background-image:url(../img/pic18.jpg);
+	height:250px;
+}
+.logo19{
+	background-image:url(../img/pic19.jpg);
+	height:250px;
+}
+.logo20{
+	background-image:url(../img/pic20.jpg);
+	height:250px;
+}
+.ficha{
+	color:#F00;
+}
+fieldset {
+	border: 1px solid #a9a9a9;
+	padding: 20px 10px;
+}
+legend {
+	font-size: 18px;
+	padding: 0 10px;
+}
+.radius5{
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-o-border-radius: 5px;
+	-ms-border-radius: 5px;
+}
+.erro, .sucesso, .alerta, .pergunta{
+	width: 100%;
+	padding: 2%;
+}
+.sucesso{
+	background: #eff4d4;
+	border: 1px solid #8fad3d;
+	color: #596c26;
+}
+.alerta{
+	background: #ffea97;
+	border: 1px solid #e2b500;
+	color: #995fb5;
+}
+.aviso{
+	color: red;
+}
+.erro{
+	background: #efcec9;
+	border: 1px solid #ac3f30;
+	color: #943728;
+}
+.pergunta{
+	background: #c6d8f0;
+	border: 1px solid #4381cc;
+	color: #5c58b9;
+}
+.fim{background-color:#F00; border: 1px none #000;}
+.ok{background-color:#00DF00; border: 1px none #000;}
+
+.fim:hover{background-color:#FF1F00;}
+.ok:hover{background-color:#00DF55;}
+
+.bloco1{width: 25%; padding: 4px; float:left;}
+.armas{
+	background-color:#E4E4E4; 
+	color:#000;
+	border: solid 2px #FFF;
+	padding: 0.9375em;
+	display: inline-block;
+	font-size: 0.975em;
+	top: 0;
+	width: 100%;
+	margin: 0;
+}
+.nome{
+	font-size:36px;
+	color:#000;
+}
+.categoria{
+	font-size:18px;
+	color:#000;
+	border-bottom:dotted 1px #FFF;
+	background-color:#EEE;
+}
+.dados{
+	border-bottom:dotted 1px #FFF;
+	background-color:#EEE;
+}
+.descricao{
+	border: solid 2px #FFF;
+	float:right;
+	width: 75%;
+	background-color:#EEE;
+	margin-top:4px;
+}
+.descricao_h{
+	border: solid 2px #FFF;
+	float:right;
+	width: 100%;
+	background-color:#EEE;
+	margin-top:4px;
+}
+.historia_npc{
+	background-color:#E4E4E4; 
+	color:#000;
+	border: solid 2px #FFF;
+	padding: 0.9375em;
+	display: inline-block;
+	font-size: 0.975em;
+	top: 0;
+	width: 100%;
+	margin: 0;
+}
+.h:hover{background-color:#FFF;}
+.h:hover{background-color:#FFF;}
+.h:hover{background-color:#FFF;}
+.h:hover{background-color:#FFF;}
+
+.page_links{	
+	background-color:#D4BFFF;	
+}
+.grupo_links{
+	margin-left:auto;
+}
+.page{
+	background:#FFF;
+	border:#FFF 1px solid;	
+	color:#000;
+	width:25px;
+	height:25px;
+	float:left;
+	border-radius: 5px;
+	margin:5px;
+}
+.page:hover{
+	background:#000;
+	color:#FFF;
+}

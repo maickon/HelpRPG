@@ -1,0 +1,4 @@
+Sagrada justiceira
+
+A sagrada justiceira é uma espada curta +2. Porém quando utilizado por um paladino, dobra o bônus e dano concedidos pela 		habilidade de destruir o mal.
+dano 1d6
